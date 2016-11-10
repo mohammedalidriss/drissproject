@@ -38,7 +38,7 @@
 <%
     } else {
 %>
-<p>Hello!
+<p>Hello Afef!
     <a href="<%= userService.createLoginURL(request.getRequestURI()) %>">Sign in</a>
     to include your name with greetings you post.</p>
 <%
